@@ -80,13 +80,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container">
 	<h1>Welcome to CodeIgniter!</h1>
-
 	<div id="body">
-
 		<h2>INTRODUCTION TO CODEIGNITER, with OSP PRO</h2>
-
 	</div>
-		
 </div>
 
 </body>
